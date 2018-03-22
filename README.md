@@ -39,3 +39,4 @@ HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/A
 
 [URL加载过程](https://zhuanlan.zhihu.com/p/34453198)
 
+[网易云音乐前端一面二面hr面](https://www.nowcoder.com/discuss/69537)
